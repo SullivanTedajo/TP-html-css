@@ -1,0 +1,9 @@
+/* --- ******  FOOTER STYLE  ****** --- */
+@import url("global.css");
+
+.footer {
+    background-color: var(--main-background-color);
+    text-align: center;
+    margin: 0;
+    padding-block: 1.5em;
+}
